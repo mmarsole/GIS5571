@@ -1,3 +1,3 @@
 # GIS5571
-repository for ArcGIS1 class
+Repository for ArcGIS1 class.
 Likely a place where i will load class lab assignments....
